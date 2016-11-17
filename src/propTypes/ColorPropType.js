@@ -11,7 +11,7 @@
   */
 
 import { PropTypes } from 'react'
-import ReactPropTypeLocationNames from 'react/lib/ReactPropTypeLocationNames'
+import ReactPropTypeLocationNames from 'react-dom/lib/ReactPropTypeLocationNames'
 
 var normalizeColor = require('../modules/normalizeColor');
 
